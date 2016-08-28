@@ -31,3 +31,6 @@ console.log(a == b);
 
 console.log(typeof null == "object");
 console.log(typeof [] == "object");
+
+const TEST_CONST = "abc";
+console.log(TEST_CONST);
